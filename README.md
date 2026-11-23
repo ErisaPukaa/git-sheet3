@@ -1,1 +1,1 @@
-# README changed in repo B
+# README changed in repo A and repo B
